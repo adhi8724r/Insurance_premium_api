@@ -1,3 +1,5 @@
 # .gitignore
 myvenv/
 .env
+__pycache__/
+*.pyc
